@@ -1,0 +1,12 @@
+k Mary Smith 3.2 4
+k Johnny Jones 3.3 8
+k Cindy Carter 2.7 5
+k Felix Cat 3.9 3
+h Max Smart 3.8 freshman
+h Joy Luck 3.7 sophomore
+h Tim Tiny 2.5 junior
+h Carlos Gonzalez 3.1 senior
+c Lily Hernandez 3.4 freshman Computer_Science
+c Jorge Lopez 2.89 sophomore Information_Technology
+c Dan Mann 1.79 junior Undeclared
+c Nancy Drew 4.0 senior Biology
